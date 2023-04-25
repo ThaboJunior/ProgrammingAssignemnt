@@ -8,3 +8,5 @@ Instruction on how run the program:
 6.option 4 lets you reset the quantities to original values(before thry were scaled)
 7.option 5 lets you clear the recipe if maybe you made a mistake and lets you enter a new one
 8.option 6 lets you exit the program
+
+Evidence of git Reposity: https://github.com/ThaboJunior/ProgrammingAssignemnt.git
